@@ -1,0 +1,6 @@
+Web Application:
+A web application is a software program that runs on a web browser and allows users to perform tasks online.Its key components include a user-friendly interface, frontend, backend, database, and server. It uses web technologies like HTML, CSS, JavaScript, and APIs to provide interactive, accessible, and dynamic services.
+
+Summary Caption:
+Web applications connect users with interactive, dynamic, and accessible online services.
+

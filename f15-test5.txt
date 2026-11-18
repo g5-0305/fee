@@ -1,0 +1,9 @@
+UI/UX Design:
+UI/UX is about designing websites and apps that look attractive and work smoothly. It includes creating layouts, choosing colors, designing buttons, improving navigation, and making sure users can easily understand and interact with every part of the interface.
+Summary Caption:
+Website layout, buttons, user-friendly design.
+
+JavaScript:
+JavaScript makes websites interactive and functional. It helps create working buttons and dynamic content. It also connects websites with APIs and handles user actions.
+Summary Caption:
+Click events and dynamic website content.

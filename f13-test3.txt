@@ -1,0 +1,20 @@
+Web Application
+UI/UX
+JavaScript (JS)
+Map & Filter
+CSS
+React
+Components
+Props
+State
+Functions
+Buttons & Links
+onClick
+Forms
+Validation
+onSubmit
+Multipage Application
+Router
+Nested Routes
+Global State
+Zustand
