@@ -1,0 +1,7 @@
+CSS (Cascading Style Sheets):
+CSS is essential for designing and styling web pages, making them visually appealing and user-friendly.
+It controls colours, fonts, layouts, spacing, backgrounds, and responsiveness. 
+CSS works alongside HTML to transform basic web structures into attractive, organised, and interactive-looking websites.
+
+Summary Caption:
+CSS transforms simple HTML structures into beautiful, responsive web designs.
